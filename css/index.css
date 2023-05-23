@@ -77,3 +77,36 @@ footer ul li {
     margin: 0;
   }
 }
+
+/* Comprar tickets */
+
+.ticket-container {
+  display: flex;
+  justify-content: center;
+}
+
+.ticket-card {
+  width: 15rem;
+  height: 15rem;
+  border: #0a497b 2px solid;
+}
+
+.percentage {
+  font-weight: bold;
+}
+
+.title-of-sale {
+  text-transform: uppercase;
+}
+
+.title-of-value {
+  text-transform: uppercase;
+}
+
+.total-to-pay {
+  font-weight: bold;
+}
+
+.input-payment {
+  border: none;
+}
